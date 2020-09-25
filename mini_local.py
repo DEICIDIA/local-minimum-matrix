@@ -1,7 +1,7 @@
 import numpy as np
 import matrix_generator as mg
 
-n = 3
+n = 5
 
 lst = mg.generate_matrice(n)
 
